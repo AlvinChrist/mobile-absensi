@@ -44339,7 +44339,7 @@ G(a,b){var s=null,r=A.fi(new A.b7(8,8)),q=t.D
 return A.vG(A.cu(A.a([A.ao(s,new A.bI(new A.ac(12,12,12,12),A.dN(A.a([A.k0(B.L2,B.o,s),A.bl(s,s,8),A.ih(A.jo(new A.axn(),s,$.qJ().r.fn(),t.a),1),A.k8(B.N,!0,s,A.f3(B.o,new A.aG(0,1/0,0,1/0),B.Li,s,new A.axo(this),new A.ac(8,8,8,8),20,s),B.k,B.au,0,s,s,new A.eh(B.x),s,s,B.cu)],q),B.G,B.by,B.z),s),B.k,s,s,new A.cb(B.cL,s,s,new A.dj(new A.b7(8,8),new A.b7(8,8),B.a_,B.a_),s,s,B.R),s,s,s,s,s,s,s),A.ao(s,new A.Eg(this.d),B.k,s,s,s,s,400,s,s,s,s,b.M(t.l).f.a.a)],q),B.G,B.D,B.z),s,2,s,new A.cL(r,B.x))}}
 A.axn.prototype={
 $2(a,b){var s=null,r=b.b
-r=r!=null&&J.P(r,"latitude")!=null&&$.qJ().gY0()===0?"Anda berada di dalam jangkauan login":"Anda berada di luar jangkauan login"
+r=r!=null&&J.P(r,"latitude")!=null&&$.qJ().gY0()===0?"Anda berada di dalam jangkauan absensi":"Anda berada di luar jangkauan absensi"
 return A.aV(r,s,s,s,s,A.br(s,s,B.o,s,s,s,s,s,s,s,s,15,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)},
 $S:368}
 A.axo.prototype={
@@ -45965,7 +45965,7 @@ if(!$.aMx){A.aPI(!1)
 A.aPI(!0)
 $.aMx=!0}return new A.RE(new A.O5(h,r),r)}}
 A.afl.prototype={
-$0(){if(this.a.c!=="Home"){var s=t.X
+$0(){if(this.a.c!=="Home (Staging)"){var s=t.X
 A.xd(this.b,"/home",s,s)}},
 $S:3}
 A.afm.prototype={
